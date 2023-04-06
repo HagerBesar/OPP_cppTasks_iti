@@ -1,0 +1,8 @@
+OOP Labs
+Lab 1:
+* Write Structure Employee (ID, Name, and Salary).
+* Make a pointer to the structure and allocate it with a number read by the user
+* Fill the allocated array and then print it.
+* Make a function with default argument values and use it.
+* Try the scope operator
+
